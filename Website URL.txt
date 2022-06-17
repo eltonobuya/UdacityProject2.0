@@ -1,0 +1,3 @@
+Deploy a high-availability web app using CloudFormation
+
+Website url: http://serve-WebAp-B2NZ1M3FO2XC-1571278942.us-east-1.elb.amazonaws.com
